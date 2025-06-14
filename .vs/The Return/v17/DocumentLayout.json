@@ -1,12 +1,57 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\vivek\\2024 Projects\\The Return\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6AD88C-1BE5-7D9D-3488-CC8040E0A811}|Assembly-CSharp.csproj|c:\\users\\vivek\\2024 projects\\the return\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6AD88C-1BE5-7D9D-3488-CC8040E0A811}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6AD88C-1BE5-7D9D-3488-CC8040E0A811}|Assembly-CSharp.csproj|C:\\Users\\vivek\\2024 Projects\\The Return\\assets\\scripts\\actions\\examine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6AD88C-1BE5-7D9D-3488-CC8040E0A811}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\actions\\examine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{93c5e7ad-af06-49e6-a756-b8f3eaca790d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\2024 Projects\\The Return\\Assets\\Scripts\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameController.cs",
+              "ToolTip": "C:\\Users\\vivek\\2024 Projects\\The Return\\Assets\\Scripts\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowEQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:03:02.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Examine.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\2024 Projects\\The Return\\Assets\\Scripts\\Actions\\Examine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Actions\\Examine.cs",
+              "ToolTip": "C:\\Users\\vivek\\2024 Projects\\The Return\\Assets\\Scripts\\Actions\\Examine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Actions\\Examine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:03:58.562Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
